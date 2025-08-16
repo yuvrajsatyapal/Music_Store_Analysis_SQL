@@ -64,7 +64,7 @@ The database is populated with sample data including:
 
 ---
 
-## Sample SQL Queries
+## SQL Queries
 
 Here are some key example queries included in this project:
 
