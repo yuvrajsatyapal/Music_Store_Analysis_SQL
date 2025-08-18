@@ -1,4 +1,4 @@
-# Chinook Music Store SQL Project
+# Chinook (Music Store)
 
 
 ## Overview
